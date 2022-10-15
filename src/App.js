@@ -54,4 +54,5 @@ function App() {
   );
 }
 
+export default {expenses};
 export default App;

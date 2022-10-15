@@ -1,3 +1,3 @@
-import Expenses from './App';
+import {expenses} from './App';
 import 'Expenses.css';
 
